@@ -7,8 +7,8 @@ import { ClerkProvider } from "@clerk/nextjs";
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'AI chat bot',
-  description: 'My first attempt at a chatbot',
+  title: 'Pathfinders ChatBot',
+  description: 'Informative chatbot for pathfinders program',
 }
 
 export default function RootLayout({
